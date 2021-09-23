@@ -1,0 +1,23 @@
+body
+{
+    background-color: lightyellow
+}
+.head
+{
+    font-size: 20px;
+}
+.items
+{
+    font-size: 17px;
+    color: orangered;
+}
+hr
+{
+    border-top: 6px solid;
+    color: orangered;
+    border-radius: 4px;
+}
+span
+{
+    color: rgba(0, 37, 246, 0.63);
+}
